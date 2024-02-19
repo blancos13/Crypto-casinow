@@ -1,5 +1,8 @@
 
-I,Can install for small fee 100$ Discord : zerobyte13 Telegram : @blancos13
+I can code ur projects if you interest dm
+Discord : zerobyte13 
+Telegram : @blancos13
+
 Crypto casino with 9 game modes coinflip, crash, Mines, roulette, slots, dice and more
 
 
