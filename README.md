@@ -3,6 +3,8 @@ Crypto Casino with Slots, Aviator, Crash , Dice , Flip, Jackpot, wheel, Pvp and 
 
 Installation 
 
+providing setup + latest files for 100$ telegram : blancos13
+
 put data.sql in your mysql panel
 Composer install
 Npm install
